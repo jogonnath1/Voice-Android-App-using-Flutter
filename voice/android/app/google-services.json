@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "630693743228",
+    "project_id": "voice-1efd4",
+    "storage_bucket": "voice-1efd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630693743228:android:b616090185f7467cc197f9",
+        "android_client_info": {
+          "package_name": "com.example.voice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApS6JF7RwfEAKLEUl6whNyepK8HOpRYRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
